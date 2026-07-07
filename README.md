@@ -1,7 +1,6 @@
-# Java Basics Practice ☕
+# Java Basics Practice 
 
 This repository contains the Java programs I created while learning the fundamentals of Java during my college coursework.
-
 The programs are intended for practice and cover core programming concepts, object-oriented programming (OOP), and basic problem-solving.
 
 ## Topics Covered
@@ -25,21 +24,6 @@ The programs are intended for practice and cover core programming concepts, obje
 - Searching Algorithms
 - Basic Mathematical Programs
 
-## Programs Included
-
-### OOP Concepts
-- BankAccount
-- Book
-- EmployeeDemo
-- Student
-- StudentInfo
-- ConstructorOverloadingDemo
-- EncapsulationDemo
-- AbstractExample
-- OverridingExample
-- DynamicDispatchDemo
-- SuperKeywordDemo
-
 ### Algorithms & Logic Building
 - BinarySearch
 - PrimeNumber
@@ -55,10 +39,7 @@ The programs are intended for practice and cover core programming concepts, obje
 - Square Pattern
 
 ### Other Practice Programs
-- BoxDemo
 - DefaultValues
-- Garbage
-- GarmentsDemo
 - TotalAndAvgMarks
 - And more...
 
