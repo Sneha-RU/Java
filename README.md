@@ -47,11 +47,6 @@ The programs are intended for practice and cover core programming concepts, obje
 
 This repository serves as a record of my Java learning journey and practice exercises. It helps me strengthen my understanding of Java fundamentals and object-oriented programming concepts.
 
-## Tech Stack
-
-- Java
-- JDK
-- VS Code / IntelliJ IDEA
 
 ---
 *Created as part of my Java learning journey.*
